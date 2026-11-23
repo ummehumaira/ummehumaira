@@ -6,7 +6,7 @@
 - 📫 How to reach me: My email address is ummehumairasorna@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to communacate
-- 
+  
 -About me:
 - 👩‍💻 Computer Science & Engineering Student
 🤖 Passionate about AI & Machine Learning
