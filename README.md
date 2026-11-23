@@ -3,10 +3,7 @@
 
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning web development and AI automation tool
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: My email address is ummehumairasorna@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to communacate
 -About me:
